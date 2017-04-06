@@ -1,5 +1,8 @@
 // specific to the "new chart" view
+body {
+background-color:$color-gray-light;
 
+}
 .new-chart {
   margin-top: 3em;
   @include span-columns(18);
@@ -35,7 +38,7 @@
 }
 
 .input-data {
-  font-family: "Monaco", "Lucida Console", monospace;
+  font-family: "Graphik", "Lucida Console", monospace;
   background-color: $color-gray-light;
   height: 20em;
   padding: 0.3em;

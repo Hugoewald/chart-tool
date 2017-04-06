@@ -18,7 +18,7 @@
 // @import 'debug';
 
 .#{$prefix}bg {
-	fill: $color-white;
+	fill: $color-gray-light;
 }
 
 .#{$prefix}chart_svg {
@@ -28,7 +28,7 @@
 .#{$prefix}chart {
   width: $width;
   height: auto;
-  background-color: $color-white;
+  background-color: $color-gray-light;
   margin: $margin;
   position: relative;
   overflow: hidden;

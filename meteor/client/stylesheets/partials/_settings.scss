@@ -5,13 +5,13 @@ $width: 100%;
 $margin: 0 0 20px 0;
 
 // Fonts
-$heading-font-family: 'Helvetica';
+$heading-font-family: 'Graphik';
 $heading-font-weight: bold;
 $heading-font-style: normal;
 $heading-font-size: 15px;
 $heading-font-line-height: 17px;
 
-$utility-font-family: 'Helvetica';
+$utility-font-family: 'Graphik';
 $utility-font-weight: normal;
 $utility-font-style: normal;
 $utility-font-size: 13px;
@@ -34,11 +34,11 @@ $utility-font-line-height: 16px;
 }
 
 // Color palettes
-$primary-color: #1f77b4;
-$primary-shade-1: #ff7f0e;
-$primary-shade-2: #bcbd22;
-$primary-shade-3: #8c564b;
-$primary-shade-4: #7f7f7f;
+$primary-color: #53A7A8;
+$primary-shade-1: #6f1758;
+$primary-shade-2: #ef9700;
+$primary-shade-3: #68afc1;
+$primary-shade-4: #d11600;
 $primaryShades: $primary-color, $primary-shade-1, $primary-shade-2, $primary-shade-3, $primary-shade-4;
 
 $alternate-color: #6b6ecf;
